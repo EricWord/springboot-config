@@ -1,0 +1,17 @@
+server:
+  port: 8999
+
+person:
+  lastName: 张阿三
+  age: 18
+  boss: false
+  birth: 2019/06/05
+  maps: {k1:v1,k2:v2,l3:v3}
+  lists:
+    - lisi
+    - zhoaliu
+    - tianqi
+  dog:
+    name: xiaogou
+    age: 2
+
